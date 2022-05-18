@@ -1,0 +1,11 @@
+body{
+    height: 90vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFAF0;
+    color: rgb(75, 0, 130);
+    font-family: 'Koulen', cursive;
+}
